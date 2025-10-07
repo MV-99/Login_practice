@@ -1,0 +1,35 @@
+/*este es el del login*/
+.card {
+    background-color: white;
+    width: 420px;
+    height: 420px;
+    border-radius: 15px;
+}
+
+.heart {
+    color: #DF1B7A;
+    width: 600px;
+    height: 600px;
+}
+
+.imagen {
+    width: 100px;
+    height: 90px;
+}
+
+.title {
+    font-size: 25px;
+    margin-top: -8px;
+    color: #DF1B7A;
+}
+
+.input {
+    width: 400px;
+    height: 40px;
+    border-color: #DF1B7A;
+    border-radius: 15px;
+    outline: none;
+    border-color: #DF1B7A;
+    border: 2px solid #DF1B7A;
+    margin-top:-25px
+}
