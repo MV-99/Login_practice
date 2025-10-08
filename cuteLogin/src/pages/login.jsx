@@ -1,5 +1,4 @@
 import '../styles/login.css';
-import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder';
 import Input from '../components/inputs';
 import MailOutlineIcon from '@mui/icons-material/MailOutline';
 import LockOutlineIcon from '@mui/icons-material/LockOutline';
@@ -13,7 +12,7 @@ function handleClick() {
     return (
         Swal.fire({
             title: '¡oh no!',
-            text: 'Lo sentimos, aun no esta disponible esta funcion, se paciente🐱🦋😪',
+            text: 'Lo sentimos, aun no esta disponible esta función, se paciente🐱🦋😪',
             icon: 'error',
             background: '#E7D3E8',
             color: '#DF1B7A',
