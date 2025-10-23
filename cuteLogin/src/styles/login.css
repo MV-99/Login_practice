@@ -31,5 +31,7 @@
     outline: none;
     border-color: #DF1B7A;
     border: 2px solid #DF1B7A;
-    margin-top:-25px
+    margin-top:-25px;
+    padding-left: 15px;
+    
 }

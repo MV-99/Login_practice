@@ -42,6 +42,8 @@ export default function Login() {
                         placeholder="  Enter your email"
                         className="input"
                         maxLenght={30}
+                        
+                        
                     />
                     <h6 style={{ fontSize: '14px', marginLeft: '32px', color: '#DF1B7A', marginTop: '17px' }}>
                         <LockOutlineIcon style={{ marginLeft: '-25px', marginBottom: '-5px', fontSize: '22px' }} />Password</h6>
@@ -50,6 +52,7 @@ export default function Login() {
                         placeholder="  Enter your password"
                         className="input"
                         maxLenght={16}
+                        minLenght={8}
                     />
                     <button
                         onClick={handleClick}
