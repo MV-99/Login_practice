@@ -28,6 +28,7 @@ export default function Login() {
 
     //navegacion del login
     const navigate = useNavigate();
+    
 
     return (
         <div>
@@ -42,7 +43,7 @@ export default function Login() {
                         placeholder="  Enter your email"
                         className="input"
                         maxLenght={30}
-                        
+
                         
                     />
                     <h6 style={{ fontSize: '14px', marginLeft: '32px', color: '#DF1B7A', marginTop: '17px' }}>
